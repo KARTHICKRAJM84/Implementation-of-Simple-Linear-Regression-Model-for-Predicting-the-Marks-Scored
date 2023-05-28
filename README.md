@@ -26,7 +26,6 @@ RegisterNumber:  212221040073
 ```
 
 
-
 ```
 import numpy as np
 import matplotlib.pyplot as plt
