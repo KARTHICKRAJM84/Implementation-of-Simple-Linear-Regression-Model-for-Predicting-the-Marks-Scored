@@ -150,6 +150,7 @@ x_train_grad value:
 
 y_train_grad value:
 
+
 ![image](https://github.com/KARTHICKRAJM84/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128134963/697f4632-71c0-4ae7-97b3-7fb88bfcfc72)
 
 
